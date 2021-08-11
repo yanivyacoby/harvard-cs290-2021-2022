@@ -1,12 +1,12 @@
 instructors:
   - name: David Parkes
-    profile_pic: /_images/pp/dumbledore.jpg
+    profile_pic: /_images/pp/david-parkes.png
     webpage: https://parkes.seas.harvard.edu/
   - name: John Girash
-    profile_pic: /_images/pp/mcgonagall.jpg
+    profile_pic: /_images/pp/john-girash.jpeg
     webpage: https://scholar.harvard.edu/girash/home
   - name: Yaniv Yacoby
-    profile_pic: /_images/pp/mcgonagall.jpg
+    profile_pic: /_images/pp/yy.png
     webpage: https://yanivyacoby.github.io/
 
 #teaching_assistants:
