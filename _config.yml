@@ -6,14 +6,14 @@ course_semester: "Fall 1998"
 baseurl: "/harvard-cs290/" # the subpath of your site, e.g. /blog/
 url: "http://yanivyacoby.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "Harvard SEAS"
+schoolurl: "https://www.seas.harvard.edu/"
+#twitter_username: username 
 
-address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+#address: |
+#    School of Witchcraft and Wizardry
+#    Hogwarts
+#    Scotland
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
