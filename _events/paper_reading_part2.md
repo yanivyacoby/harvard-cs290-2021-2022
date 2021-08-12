@@ -6,4 +6,4 @@ description: 'Paper Reading Part 2'
 hide_from_announcments: true
 ---
 
-A continuation of paper reading part 1. 
+A continuation of Paper Reading Part 1. 
