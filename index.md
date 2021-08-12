@@ -20,6 +20,7 @@ Students must complete both terms of this course (parts A and B) within the same
 
 ## Format
 
+TODO.
 
 ## Class Policy
 
