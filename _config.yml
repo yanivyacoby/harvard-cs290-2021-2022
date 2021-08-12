@@ -1,13 +1,13 @@
 # Site settings
 course_name: "CS290: PhD Grad Cohort Research Seminar"
-course_description: 
+#course_description: "description"
 course_semester: "Fall 2021 - Spring 2022"
 
 baseurl: "/harvard-cs290/" # the subpath of your site, e.g. /blog/
 url: "http://yanivyacoby.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Harvard SEAS"
-schoolurl: "https://www.seas.harvard.edu/"
+#schoolname: "Harvard SEAS"
+#schoolurl: "https://www.seas.harvard.edu/"
 #twitter_username: username 
 
 #address: |
