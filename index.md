@@ -31,3 +31,6 @@ Students must complete both terms of this course (parts A and B) within the same
 
 **Q/A Forum:** We will be using [EdStem](https://edstem.org/us/courses/7412) for class announcements, answering questions, and generally for discussion.
 
+**Diversity, Inclusion and Belonging:** It is the mission of the teaching staff that students from all diverse backgrounds and perspectives be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. We aim to create a learning environment that is inclusive and respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions for how to better our classroom community are always encouraged and appreciated.
+
+Since a large part of this course requires students to work in groups, in alignment with our teaching mission, we ask that students explicitly reflect on and implement practices for building teams that are diverse along many axes. The teaching staff is happy to help you brainstorm how to create an inclusive and productive working culture for your team.
