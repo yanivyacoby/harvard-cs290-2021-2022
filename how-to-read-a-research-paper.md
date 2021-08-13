@@ -42,7 +42,7 @@ permalink: /materials/how-to-read-a-research-paper/
 * Comparison
 * Retrospective or experience paper
 
-## Motivation and Potential Impact 
+### Motivation and Potential Impact 
 * What is the problem the paper addresses?
 * Why is this problem important?
 * Related Work and Contributions 
@@ -50,7 +50,7 @@ permalink: /materials/how-to-read-a-research-paper/
 * Why are existing approaches not good enough?
 * At a high level, how does the paper address the problem?
 
-## Results (Theory and/or Experiments)
+### Results (Theory and/or Experiments)
 * Theory
   - What are the main theorems in the paper?
   - Is there a new proof technique?
@@ -61,7 +61,7 @@ permalink: /materials/how-to-read-a-research-paper/
   - What approaches does the paper compare against (and why?)
   - At a high level, what are the results?
 
-## Broader Impact
+### Broader Impact
 * Identify the relevant socio-technical systems
   - Where could the technology be deployed, or which kind of technology is informed by the paper (if a theoretical paper)?
   - How would this technology be used?
@@ -76,7 +76,7 @@ permalink: /materials/how-to-read-a-research-paper/
   - What kinds of direct harm can these failures cause?
   - What kinds of harm can be caused by the broader, socio-technical system?
 
-## What questions do you have? 
+### What questions do you have? 
 For example,
 * What “holes” are there in your understanding of the paper’s narrative? (e.g. the paper claims that traditional methods cannot solve the problem, but you don’t see why they don’t suffice? The paper claims the problem is important, but you don’t see why?, etc.)
 * What are unfamiliar terms used in the paper that seem important?
