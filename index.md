@@ -21,7 +21,7 @@ Students must complete both terms of this course (parts A and B) within the same
 ## Format
 
 CS290 is a discussion-based seminar. 
-As such, please come prepared having done the readings / assignment listed on the [schedule](/schedule/) prior to class.
+As such, please come prepared having done the readings / assignment listed on the [schedule](/harvard-cs290/schedule/) prior to class.
 Classes will broadly fit into one of three overarching units:
 1. Skill building (e.g. how to read a research paper)
 2. CS-breadth: meeting with faculty from different subfields of CS to learn about their subfield, and about challenges they faced in their professional lives.
