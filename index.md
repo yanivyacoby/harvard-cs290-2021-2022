@@ -2,30 +2,24 @@
 layout: home
 ---
 
-## Course Description
+## Course Overview
 
-CS290 is designed for entering computer science Ph.D. students. 
+CS290 s a discussion-based seminar designed for entering Computer Science Ph.D. students. 
 The goals of the course are three-fold: 
 1. to introduce students to research around the CS area, 
 2. skills building, and 
 3. cohort building. 
 
-We will lead sessions on skill building (paper reading, presentation, meaning of research) 
-and soft skill building (advising relationships, academic culture, mental health, supporting your peers), 
+We will lead sessions on skill building (e.g. paper reading, presentation),
+soft skill building (e.g. managing advising relationships, supporting your peers), 
+and academic culture (e.g. mental health in academia, power dynamics in scientific communities),
 as well as research and professional oriented discussions with a broad mixture of CS faculty members. 
 We will also "visit" and discuss one or two CS colloquia. 
 
 This is a full-year, 4-unit course, meeting once a week in each of the fall and the spring. 
 Students must complete both terms of this course (parts A and B) within the same academic year to receive credit.
 
-## Format
-
-CS290 is a discussion-based seminar. 
-As such, please come prepared having done the readings / assignment listed on the [schedule](/harvard-cs290/schedule/) prior to class.
-Classes will broadly fit into one of three overarching units:
-1. Skill building (e.g. how to read a research paper)
-2. CS-breadth: meeting with faculty from different subfields of CS to learn about their subfield, and about challenges they faced in their professional lives.
-3. Academic culture (e.g. mental health in academia, power dynamics in scientific communities, etc.)
+Please come prepared having done the readings / assignment listed on the [schedule](/harvard-cs290/schedule/) prior to class.
 
 ## Class Policy
 
