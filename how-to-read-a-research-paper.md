@@ -18,12 +18,6 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
 
 ## Paper-Reading Strategies
 
-### First, what is your **goal**?
-There are, broadly speaking, two way sof reading a paper:
-1. A **quick skim** to get the big pictures and determine if the paper is relevant to you.
-2. A **deep read**
-
-Based on which 
 
 ### Research papers are **not** meant to be read top-to-bottom, like a book. 
 * We recommend **first skimming** the paper (see "how to skim a research paper" below), focusing on the **high-level ideas**, and jotting down high-level questions you may have about the **story** told by the paper.
