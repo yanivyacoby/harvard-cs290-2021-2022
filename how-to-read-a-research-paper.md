@@ -112,6 +112,7 @@ After answering the above guiding questions, additionally answer the following q
     - Is the theory adequately situated in the context of the existing literature?
   - If an **experimental** paper, do the results support the claims of the paper:
     - Are the problem instances studied suitably representative? 
+    - Do the results generalize? or do they only hold in the cases studied in the paper?
     - Do the baselines represent state-of-the art approaches to this problem?
     - Are the evaluation metrics measuring the right things? 
     - Do the experiments provide evidence that it is the innovations introduced in this paper that provide the improved performance?
