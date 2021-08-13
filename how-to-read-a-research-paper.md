@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Materials
-permalink: /how-to-read-a-research-paper/
+title: How to Read a Research Paper
+permalink: /materials/how-to-read-a-research-paper/
 ---
 
-## How to Read a Research Paper
+TODO.
