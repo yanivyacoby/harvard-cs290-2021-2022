@@ -58,7 +58,8 @@ By practicing answering these questions for every paper you read, you will pract
 ### Motivation and Potential Impact 
 * What is the problem the paper addresses?
 * Why is this problem important?
-* Related Work and Contributions 
+
+## Related Work and Contributions 
 * How is the problem traditionally solved?
 * Why are existing approaches not good enough?
 * At a high level, how does the paper address the problem?
