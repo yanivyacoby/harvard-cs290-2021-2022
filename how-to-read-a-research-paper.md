@@ -19,10 +19,10 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
 ## Paper-Reading Strategies
 
 ### Research papers are **not** meant to be read top-to-bottom, like a book. 
-* We recommend **first skimming** the paper, focusing on the **high-level ideas**, and jotting down high-level questions you may have about the **story** told by the paper.
-* Then, if the paper seems relevant, you can give it a **deeper read**. 
-* Instead of reading the paper top-down, like a book, **specifically look for answers to the questions below** ("Guiding Questions") -- answers to these questions will allow you to construct a **story / narrative** the paper is telling. 
-* If you notice yourself getting confused, you are likely missing information that the paper assumes is known by the intended research community / audience. This is a good time to start reading bits and pieces of other resources to try to **fill in the gap**. These include related papers (e.g. ones cited by the paper you’re reading, ones that share key-terms on google), wikipedia pages, blog-posts, lectures on youtube, etc. -- find a resource that seems helpful and give it a try! There’s no formula here, but going back and forth between reading related material and the original paper of interest can help you get unstuck.
+* **First, skim.** Focus on the **high-level ideas**, jot down high-level questions you may have about the **story** told by the paper.
+* **Then, a deeper read** (if the paper seems relevant). 
+* **Don't read top-down, -- answer guiding questions instead.** For every paper, answer the "guiding questions" below -- answers to these questions will allow you to construct a **story / narrative** the paper is telling.
+* **When confused...** You may be missing information assumed to be "commonly known" by the intended research community / audience. We recommend that you try to **fill in the gap** by looking for related papers (e.g. ones cited by the paper you’re reading, ones that share key-terms on google), wikipedia pages, blog-posts, lectures on youtube, etc. There’s no formula here, but going back and forth between reading related material and the original paper of interest can help you get unstuck.
 
 ### Stay organized -- keep track of what you’ve already read:
 * Reading research papers is challenging -- save your future-self time and take notes that will help you dig deeper every time you re-visit the paper. 
