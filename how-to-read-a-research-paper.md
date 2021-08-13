@@ -93,21 +93,21 @@ By practicing answering these questions for every paper you read, you will pract
 * What “holes” are there in your understanding of the paper’s narrative? (e.g. the paper claims that traditional methods cannot solve the problem, but you don’t see why they don’t suffice? The paper claims the problem is important, but you don’t see why?, etc.)
 * What are unfamiliar terms used in the paper that seem important?
 
-### What did you learn from the paper?
+### Lastly, what did you learn from the paper?
 
 
 ## How to Critique a Paper
 
-* The ideas:
+* **The ideas:**
   - Do the ideas make sense?
   - Are the ideas well-motivated?
-* The methodology:
+* **The methodology:**
   - Are the high-level ideas behind the proposed approach / method sound (i.e. do they seem plausible)?
-  - If a theoretical paper, does the theory presented support the claims of the paper:
+  - If a **theoretical** paper, does the theory presented support the claims of the paper:
     - Are the theorems proved the “right ones” to support the claims? If not, do the authors discuss why they proved this theorem and not another one?
     - Do the proofs appear to be complete, and are they reasonably clear to read?
     - Is the theory adequately situated in the context of the existing literature?
-  - If an experimental paper, do the results support the claims of the paper:
+  - If an **experimental** paper, do the results support the claims of the paper:
     - Are the problem instances studied suitably representative? 
     - Do the baselines represent state-of-the art approaches to this problem?
     - Are the evaluation metrics measuring the right things? 
