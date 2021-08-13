@@ -4,6 +4,16 @@ title: How to Read a Research Paper
 permalink: /materials/how-to-read-a-research-paper/
 ---
 
+**About:** 
+Reading research papers is challenging; research papers are often dense, assuming significant prior knowledge about the field and about related work. 
+As such, it is important to
+1. expect that it will be a **learning process** -- that it might take a while at first, but with practice you will improve! and
+2. to adopt and practice paper-reading strategies.
+
+This tutorial consists of several parts:
+1. General tips about paper-reading
+2. A specific 
+
 
 **Acknowledgements:** This tutorial is adapted from [Margo Seltzer’s course on OS Research](https://www.seltzer.com/margo/teaching/CS508.21/intro.html) and from  [Weiwei Pan’s course on Stochastic Methods](https://docs.google.com/document/d/1MPEOSairUkktoZmX1N8zcIaENjyirt-JgRfSD-HBymk/edit).
 
