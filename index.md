@@ -4,7 +4,7 @@ layout: home
 
 ## Course Description
 
-This course is designed for entering computer science Ph.D. students. 
+CS290 is designed for entering computer science Ph.D. students. 
 The goals of the course are three-fold: 
 1. to introduce students to research around the CS area, 
 2. skills building, and 
@@ -20,7 +20,12 @@ Students must complete both terms of this course (parts A and B) within the same
 
 ## Format
 
-TODO.
+CS290 is a discussion-based seminar. 
+As such, please come prepared having done the readings / assignment listed on the [schedule](/schedule/) prior to class.
+Classes will broadly fit into one of three overarching units:
+1. Skill building (e.g. how to read a research paper)
+2. CS-breadth: meeting with faculty from different subfields of CS to learn about their subfield, and about challenges they faced in their professional lives.
+3. Academic culture (e.g. mental health, power dynamics in scientific communities, etc.)
 
 ## Class Policy
 
