@@ -23,6 +23,6 @@ TODO.
 
 ## Professional Development
 
-* Graduate fellowship opportunities in computer science
+* Graduate fellowship opportunities in Computer Science
   * [List compiled by CMU](https://www.cs.cmu.edu/~gradfellowships/)
   * [List compiled by NC State](https://www.csc.ncsu.edu/dgp/fellowships.html)
