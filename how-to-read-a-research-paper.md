@@ -98,6 +98,8 @@ By practicing answering these questions for every paper you read, you will pract
 
 ## How to Critique a Paper
 
+After answering the above guiding questions, additionally answer the following questions:
+
 * **The ideas:**
   - Do the ideas make sense?
   - Are the ideas well-motivated?
