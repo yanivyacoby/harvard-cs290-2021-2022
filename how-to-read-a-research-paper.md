@@ -28,7 +28,7 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
 * Save your future-self time and take notes that will help you dig deeper every time you re-visit the paper. 
 * Different people find different organizational methods useful, but some common ones are:
   - Taking notes on the paper, underlining, without focus on being neat -- this can help you understand the paper better as you go!
-  - Keeping a **searchable doc** online (e.g. Evernote) in which you summarize the paper / answer the paper-reading questions below -- this will help you pick up a paper where you left off.
+  - Keeping a **searchable doc** (e.g. Evernote) in which you summarize the paper / answer the paper-reading questions below -- this will help you pick up a paper where you left off.
   - Using a **citation manager** (e.g. Zotero) to keep lists of paper and easily create latex bibliographies -- this will save you time when writing your own paper.
 * For every paper, especially focus on recording:
   - The “big ideas”
