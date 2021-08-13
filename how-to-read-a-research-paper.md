@@ -27,3 +27,52 @@ permalink: /materials/how-to-read-a-research-paper/
 * Reading research papers is challenging: they are often very dense and assume significant prior knowledge about the field and about related work. It is important to ask questions about the paper you read, and actively look for tips about others’ paper-reading strategies! 
 * It is expected and normal that when you first start reading research papers in a new field, it will take you several hours to get through a paper. 
 
+
+## How to Read a Research Paper
+
+### What kind of paper are you reading? 
+* Big idea 
+* Unifying theme 
+* Small idea with evaluation (most papers)
+* Measurement
+* Comparison
+* Retrospective or experience paper
+
+## Motivation and Potential Impact 
+* What is the problem the paper addresses?
+* Why is this problem important?
+* Related Work and Contributions 
+* How is the problem traditionally solved?
+* Why are existing approaches not good enough?
+* At a high level, how does the paper address the problem?
+
+## Results (Theory and/or Experiments)
+* Theory
+  - What are the main theorems in the paper?
+  - Is there a new proof technique?
+  - At a high level, how do the theorems relate to earlier results?
+* Experiments
+  - How does the paper define success?
+  - How is success measured?
+  - What approaches does the paper compare against (and why?)
+  - At a high level, what are the results?
+
+## Broader Impact
+* Identify the relevant socio-technical systems
+  - Where could the technology be deployed, or which kind of technology is informed by the paper (if a theoretical paper)?
+  - How would this technology be used?
+* Identify the stakeholders
+  - Who would be the users?
+  - Who would be the affected communities (are these the users)?
+* What types of good can this technology do?
+  - What kinds of needs do these users/businesses/communities have?
+  - What kinds of constraints do these users/businesses/communities have?
+* What types of harm can this technology do?
+  - What kinds of failures can this technology have?
+  - What kinds of direct harm can these failures cause?
+  - What kinds of harm can be caused by the broader, socio-technical system?
+
+## What questions do you have? 
+For example,
+* What “holes” are there in your understanding of the paper’s narrative? (e.g. the paper claims that traditional methods cannot solve the problem, but you don’t see why they don’t suffice? The paper claims the problem is important, but you don’t see why?, etc.)
+* What are unfamiliar terms used in the paper that seem important?
