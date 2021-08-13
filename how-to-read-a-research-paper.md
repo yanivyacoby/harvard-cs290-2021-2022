@@ -18,10 +18,10 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
 
 ## Paper-Reading Strategies
 
-
 ### Research papers are **not** meant to be read top-to-bottom, like a book. 
-* We recommend **first skimming** the paper (see "how to skim a research paper" below), focusing on the **high-level ideas**, and jotting down high-level questions you may have about the **story** told by the paper.
+* We recommend **first skimming** the paper, focusing on the **high-level ideas**, and jotting down high-level questions you may have about the **story** told by the paper.
 * Then, if the paper seems relevant, you can give it a **deeper read**. 
+* Instead of reading the paper top-down, like a book, **specifically look for answers to the questions below** ("Guiding Questions") -- answers to these questions will allow you to construct a **story / narrative** the paper is telling. 
 * If you notice yourself getting confused, you are likely missing information that the paper assumes is known by the intended research community / audience. This is a good time to start reading bits and pieces of other resources to try to **fill in the gap**. These include related papers (e.g. ones cited by the paper you’re reading, ones that share key-terms on google), wikipedia pages, blog-posts, lectures on youtube, etc. -- find a resource that seems helpful and give it a try! There’s no formula here, but going back and forth between reading related material and the original paper of interest can help you get unstuck.
 
 ### Stay organized -- keep track of what you’ve already read:
@@ -41,7 +41,11 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
 * It is expected and normal that when you first start reading research papers in a new field, it will take you several hours to get through a paper. 
 
 
-## How to Read a Research Paper
+## Guiding Questions
+
+We recommend of thinking of "paper reading" as the process of answering the following guiding questions.
+Whether you are skimming or deep-reading, these guiding questions will help you re-construct the narrative told by the paper.
+By practicing answering these questions for every paper you read, you will practice quickly honing in on the meaning behind the paper instead of being bogged down by details. 
 
 ### What kind of paper are you reading? 
 * Big idea 
@@ -85,7 +89,6 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
   - What kinds of direct harm can these failures cause?
   - What kinds of harm can be caused by the broader, socio-technical system?
 
-### What questions do you have? 
-For example,
+### What questions do you have? E.g.,
 * What “holes” are there in your understanding of the paper’s narrative? (e.g. the paper claims that traditional methods cannot solve the problem, but you don’t see why they don’t suffice? The paper claims the problem is important, but you don’t see why?, etc.)
 * What are unfamiliar terms used in the paper that seem important?
