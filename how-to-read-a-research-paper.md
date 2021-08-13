@@ -4,6 +4,10 @@ title: How to Read a Research Paper
 permalink: /materials/how-to-read-a-research-paper/
 ---
 
+
+**Acknowledgements:** This tutorial is adapted from [Margo Seltzer’s course on OS Research](https://www.seltzer.com/margo/teaching/CS508.21/intro.html) and from  [Weiwei Pan’s course on Stochastic Methods](https://docs.google.com/document/d/1MPEOSairUkktoZmX1N8zcIaENjyirt-JgRfSD-HBymk/edit).
+
+
 ## General Tips for Paper Reading
 
 ### Research papers are **not** meant to be read top-to-bottom, like a book. 
