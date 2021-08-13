@@ -115,6 +115,6 @@ After answering the above guiding questions, additionally answer the following q
     - Are the evaluation metrics measuring the right things? 
     - Do the experiments provide evidence that it is the innovations introduced in this paper that provide the improved performance?
 * Presentation
- - Is the paper well-written?
+  - Is the paper well-written?
 
 
