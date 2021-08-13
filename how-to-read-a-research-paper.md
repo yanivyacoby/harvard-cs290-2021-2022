@@ -4,7 +4,7 @@ title: How to Read a Research Paper
 permalink: /materials/how-to-read-a-research-paper/
 ---
 
-## Tips for Paper Reading
+## General Tips for Paper Reading
 
 ### Research papers are **not** meant to be read top-to-bottom, like a book. 
 * We recommend **first skimming** the paper (see "how to skim a research paper" below), focusing on the **high-level ideas**, and jotting down high-level questions you may have about the **story** told by the paper.
