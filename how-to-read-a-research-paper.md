@@ -115,7 +115,7 @@ After answering the above guiding questions, additionally answer the following q
     - Do the baselines represent state-of-the art approaches to this problem?
     - Are the evaluation metrics measuring the right things? 
     - Do the experiments provide evidence that it is the innovations introduced in this paper that provide the improved performance?
-* Presentation
+* **Presentation:**
   - Is the paper well-written?
 
 
