@@ -25,7 +25,7 @@ As such, please come prepared having done the readings / assignment listed on th
 Classes will broadly fit into one of three overarching units:
 1. Skill building (e.g. how to read a research paper)
 2. CS-breadth: meeting with faculty from different subfields of CS to learn about their subfield, and about challenges they faced in their professional lives.
-3. Academic culture (e.g. mental health, power dynamics in scientific communities, etc.)
+3. Academic culture (e.g. mental health in academia, power dynamics in scientific communities, etc.)
 
 ## Class Policy
 
