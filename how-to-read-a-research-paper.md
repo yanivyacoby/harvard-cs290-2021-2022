@@ -43,7 +43,7 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
 
 ## Guiding Questions
 
-We recommend of thinking of "paper reading" as the process of answering the following guiding questions.
+We recommend of thinking of "paper reading" as *the process of answering the following guiding questions*.
 Whether you are skimming or deep-reading, these guiding questions will help you re-construct the narrative told by the paper.
 By practicing answering these questions for every paper you read, you will practice quickly honing in on the meaning behind the paper instead of being bogged down by details. 
 
