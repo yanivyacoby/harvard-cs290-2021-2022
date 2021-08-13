@@ -22,7 +22,7 @@ permalink: /materials/how-to-read-a-research-paper/
   - Relevant buzz words
   - Story / narrative (consisting of the answers to the questions listed below)
 
-### Don’t be self-conscious asking questions:
+### Ask lots and lots of questions:
 * You’re here to **learn** how to read papers and are *not expected to already know how to do it*.
 * Reading research papers is challenging: they are often very dense and assume significant prior knowledge about the field and about related work. It is important to ask questions about the paper you read, and actively look for tips about others’ paper-reading strategies! 
 * It is expected and normal that when you first start reading research papers in a new field, it will take you several hours to get through a paper. 
