@@ -26,7 +26,7 @@ TODO.
 
 **Attendance:** Class attendance and participation is mandatory. If, due to extenuating circumstances, you need to miss class, please contact the course staff ahead of time. 
 
-**Grading:** The course is letter-graded based on your attendance and participation. 
+**Grading:** The course is letter-graded based on your attendance, assignment work, and participation. 
 
 **Office Hours:** Office hours with any member of the course staff can be made by appointment. 
 
