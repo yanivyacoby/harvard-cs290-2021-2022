@@ -21,7 +21,7 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
 ### Research papers are **not** meant to be read top-to-bottom, like a book. 
 * **First, skim.** Focus on the **high-level ideas**, jot down high-level questions you may have about the **story** told by the paper.
 * **Then, a deeper read** (if the paper seems relevant). 
-* **Don't read top-down -- answer "guiding questions" instead.** For every paper, answer the "guiding questions" below -- answers to these questions will allow you to construct a **story / narrative** the paper is telling.
+* **Don't read top-down -- read for answers to the "guiding questions" instead.** For every paper, answer the "guiding questions" below -- answers to these questions will allow you to construct a **story / narrative** the paper is telling.
 * **When confused...** You may be missing information assumed to be "commonly known" by the intended research community / audience. We recommend that you try to **fill in the gap** by looking for related papers (e.g. ones cited by the paper you’re reading, ones that share key-terms on google), wikipedia pages, blog-posts, lectures on youtube, etc. There’s no formula here, but going back and forth between reading related material and the original paper of interest can help you get unstuck.
 
 ### Stay organized -- keep track of what you’ve already read:
