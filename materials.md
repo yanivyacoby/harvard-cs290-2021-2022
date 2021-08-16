@@ -11,7 +11,7 @@ permalink: /materials/
   1. What should you expect from yourself in your first year?
   2. What does your advisor expect from you in your first year?
   3. How can you be supportive of your peers?
-
+* [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html) (by Professor Steven Swanson, UCSD)
 
 ## Academic Culture
 
