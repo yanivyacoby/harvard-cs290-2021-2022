@@ -6,4 +6,4 @@ description: 'Examining the nature of science'
 hide_from_announcments: true
 ---
 
-Guest: Sheila Jasanoff
+Guest: [Professor Sheila Jasanoff](https://sheilajasanoff.org/)
