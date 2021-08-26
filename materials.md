@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Materials
+title: Class Materials & Additional Readings
 permalink: /materials/
 ---
 
