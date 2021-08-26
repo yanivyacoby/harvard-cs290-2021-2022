@@ -51,4 +51,4 @@ Once you’ve set the stage, dive into the update! If you are looking to share r
 
 After you’ve given your update and solicited feedback from your collaborators, be sure to discuss **next steps**. 
 Lastly, before the meeting ends, **summarize** the next steps agreed on. This will help **prevent miscommunication**. 
-> **Tip:** use language like, "Based on your feedback, it sounds like the next priority items on my agenda are \_\_\_\_ -- does that sound good to everyone?". 
+> **Tip:** use language like, "Based on your feedback, it sounds like the next priority items on my agenda are \_\_\_\_. Does that sound good to everyone?". 
