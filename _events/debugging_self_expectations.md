@@ -6,3 +6,6 @@ description: 'Debugging unhealthy self-expectations'
 hide_from_announcments: true
 ---
 
+**Before class:** Part 1 from [How to make the most out of your PhD](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html)
+
+**In class:** Discussion with PhD Student-Panel
