@@ -6,6 +6,9 @@ description: 'Paper Reading Part 2'
 hide_from_announcments: true
 ---
 
-**Before class:** TBD
+**Before class:** 
+* Review [how to read a research paper](/materials/how-to-read-a-research-paper/)
 
-**In class:** A continuation of Paper Reading Part 1. 
+**In class:** practice paper-reading
+* [Rx: Treating Bugs As Allergies— A Safe Method to Survive Software Failures](https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/Rx-SOSP05.pdf)
+* [The Dimpled Manifold Model of Adversarial Examples in Machine Learning](https://arxiv.org/abs/2106.10151)
