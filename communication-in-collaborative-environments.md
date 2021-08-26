@@ -13,6 +13,8 @@ As such, it is important to stay organized and be proactive about soliciting fee
 In this tutorial, we provide (a) general tips about how to run meetings, 
 and (b) a step-by-step template for running your meetings to get you started.
 
+> Does this work?
+
 ## General Tips
 
 1. **Summarize** the project’s current state and goals succinctly. Your collaborators, including your advisor, may be quite busy and involved in a large number of projects, and may therefore **not remember** exactly where you left off the last time you chatted, and may not remember the smaller details of your project. 
