@@ -6,3 +6,6 @@ description: 'Fellowships'
 hide_from_announcments: true
 ---
 
+**Before class:** TBD
+
+**In class:** Discussion with PhD Student-Panel
