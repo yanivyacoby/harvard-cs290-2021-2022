@@ -14,9 +14,6 @@ In this guide, we provide (a) general tips about how to run meetings,
 and (b) a step-by-step template for running your meetings to get you started.
 
 
----
-
-
 ## General Tips
 
 1. **Summarize** the project’s current state and goals succinctly. Your collaborators, including your advisor, may be quite busy and involved in a large number of projects, and may therefore **not remember** exactly where you left off the last time you chatted, and may not remember the smaller details of your project. 
@@ -26,9 +23,6 @@ and (b) a step-by-step template for running your meetings to get you started.
 3. **Before the meeting**, you may find it useful to send notes summarizing what you’ll be discussing in the meeting and what feedback you would like (you can follow the step-by-step template below). This can help give your collaborators **more time to think** about your project and give you more meaningful feedback.
   * **Tip:** Having visual aids for the meeting can be incredibly helpful. Google docs and google slides make it easy to share notes and figures. For sharing more math-heavy notes, consider using something like hackmd.io, which allows you to mix markdown with LaTeX. By using one of these collaborative online tools, your collaborators can also leave you comments as they look through your meeting materials.  
 4. **After the meeting**, message all of your collaborators with the **agreed-upon** next steps to make sure everyone is on the same page.  
-
-
----
 
 
 ## Step-by-Step Template for Running Your Meeting
