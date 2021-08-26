@@ -9,6 +9,7 @@ Whether in group meetings, 1-on-1s with your advisor / collaborators,
 spontaneous blackboard brainstorming sessions, good communication practices will help you get you unstuck, 
 come up with new directions, as well as get clearer and more structured feedback on your work, etc. 
 As such, it is important to stay organized and be proactive about soliciting feedback from your collaborators. 
+
 In this tutorial, we provide (a) general tips about how to run meetings, 
 and (b) a step-by-step template for running your meetings to get you started.
 
@@ -26,8 +27,11 @@ and (b) a step-by-step template for running your meetings to get you started.
 ## Step-by-Step Template for Running Your Meeting
 
 1. Start by **outlining** what you will be discussing in this meeting, as well as what **feedback** you are specifically hoping to get from your collaborators.
+  * Your meeting-time can be used in a variety of ways -- unstructured thinking (e.g. about new projects or directions), active work on trying to make progress, discussing a relevant paper you all read, debugging, soliciting feedback on writing, etc. -- just be clear from the start what the goal of the meeting is.
 2. Very briefly, **summarize** the overall goal of the project, and what you’ve done until the previous meeting. Although presumably your collaborators know and remember the overall goal, research goals may **naturally change** during the course of the project, so it’s important to keep everyone on the same page.
-3. In more detail, summarize **what** you agreed you would work on in the last meeting, and **why** what you agreed on was necessary. You can use language like: “In our last meeting, we agreed that the best immediate next steps for the project are ____, since they will allow us to test our hypothesis that ____. This is what I’ve been investigating since our last meeting.”
+3. In more detail, summarize **what** you agreed you would work on in the last meeting, and **why** what you agreed on was necessary. 
+  * **Tip:** use language like, "In our last meeting, we agreed that the best immediate next steps for the project are \_\_\_\_, since they will allow us to test our hypothesis that \_\_\_\_. This is what I’ve been investigating since our last meeting."
 4. Once you’ve set the stage, dive into the update! If you are looking to share results in this meeting, be sure to give a **high-level synthesis** before delving into the details, and summarize the results again after presenting the details.   
 5. After you’ve given your update and solicited feedback from your collaborators, be sure to discuss **next steps**. 
-6. Lastly, before the meeting ends, **summarize** the next steps agreed on: e.g., “Based on your feedback, it sounds like the next priority items on my agenda are ____ -- does that sound good to everyone?”. This will help **prevent miscommunication**. 
+6. Lastly, before the meeting ends, **summarize** the next steps agreed on. This will help **prevent miscommunication**. 
+  * **Tip:** use language like, "Based on your feedback, it sounds like the next priority items on my agenda are \_\_\_\_ -- does that sound good to everyone?". 
