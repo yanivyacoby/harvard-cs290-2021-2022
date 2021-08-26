@@ -6,4 +6,6 @@ description: 'Faculty Visit'
 hide_from_announcments: true
 ---
 
-Guest: TBD
+**Before class:** TBD
+
+**Guest:** TBD
