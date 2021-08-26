@@ -33,6 +33,8 @@ Start by **outlining** what you will be discussing in this meeting, as well as w
 
 Your meeting-time can be used in a variety of ways -- unstructured thinking (e.g. formulating a research question, coming up with new projects or directions), active work on trying to make progress (e.g. debugging, diagnosing strange results, sketching a proof idea, designing an experiment), discussing a relevant paper you all read, soliciting feedback on writing, etc. -- just be clear from the start what the goal of the meeting is.
 
+> **Tip:** If giving an update on progress you've made since the last meeting, you can use language like, "In this meeting, I was hoping to discuss three things: \_\_\_\_. I would really appreciate your feedback on \_\_\_\_. Before I recap the progress we've made so far, and before diving in, doess that sound good to everyone? and is there anything else that folks would like to discuss?"
+
 ### Step 2: Summarize
 
 Very briefly, **summarize** the overall goal of the project, and what you’ve done until the previous meeting. Although presumably your collaborators know and remember the overall goal, research goals may **naturally change** during the course of the project, so it’s important to keep everyone on the same page.
