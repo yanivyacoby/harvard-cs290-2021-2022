@@ -8,4 +8,6 @@ hide_from_announcments: true
 
 **Before class:** TBD
 
-**In class:** [How to read a research paper](/materials/how-to-read-a-research-paper/)
+**In class:** 
+* [How to read a research paper](/materials/how-to-read-a-research-paper/)
+* Practice reading: [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
