@@ -6,4 +6,6 @@ description: 'Faculty Visit'
 hide_from_announcments: true
 ---
 
-Guest: [Professor Stuart Shieber](http://www.eecs.harvard.edu/shieber/)
+**Before class:** None
+
+**Guest:** [Professor Stuart Shieber](http://www.eecs.harvard.edu/shieber/)
