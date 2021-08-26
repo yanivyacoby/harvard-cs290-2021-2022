@@ -10,10 +10,10 @@ As such, it is important to
 1. expect that it will be a **learning process** -- that it might take a while at first, but with practice you will improve! and
 2. to adopt and practice **paper-reading strategies**.
 
-In this tutorial, we outline a general strategy for paper reading. 
+In this guide, we outline a general strategy for paper reading. 
 We hope that you will find it useful, and encourage you to ask your peers, colleagues and mentors for more insights about how they read papers, specifically in your field.
 
-**Acknowledgements:** This tutorial is adapted from [Margo Seltzer’s course on OS Research](https://www.seltzer.com/margo/teaching/CS508.21/intro.html) and from  [Weiwei Pan’s course on Stochastic Methods](https://docs.google.com/document/d/1MPEOSairUkktoZmX1N8zcIaENjyirt-JgRfSD-HBymk/edit).
+**Acknowledgements:** This guide is adapted from [Margo Seltzer’s course on OS Research](https://www.seltzer.com/margo/teaching/CS508.21/intro.html) and from  [Weiwei Pan’s course on Stochastic Methods](https://docs.google.com/document/d/1MPEOSairUkktoZmX1N8zcIaENjyirt-JgRfSD-HBymk/edit).
 
 
 ## Paper-Reading Strategies
