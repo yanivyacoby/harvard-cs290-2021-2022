@@ -29,10 +29,9 @@ and (b) a step-by-step template for running your meetings to get you started.
 
 ### **Step 1:** Outline
 
-Start by **outlining** what you will be discussing in this meeting, as well as what **feedback** you are specifically hoping to get from your collaborators.
+* Start by **outlining** what you will be discussing in this meeting, as well as what **feedback** you are specifically hoping to get from your collaborators.
 
-Your meeting-time can be used in a variety of ways -- unstructured thinking (e.g. formulating a research question, coming up with new projects or directions), active work on trying to make progress (e.g. debugging, diagnosing strange results, sketching a proof idea, designing an experiment), discussing a relevant paper you all read, soliciting feedback on writing, etc. -- just be clear from the start what the goal of the meeting is.
-
+* Your meeting-time can be used in a variety of ways -- unstructured thinking (e.g. formulating a research question, coming up with new projects or directions), active work on trying to make progress (e.g. debugging, diagnosing strange results, sketching a proof idea, designing an experiment), discussing a relevant paper you all read, soliciting feedback on writing, etc. -- just be clear from the start what the goal of the meeting is.
 > **Tip:** If giving an update on progress you've made since the last meeting, you can use language like, "In this meeting, I was hoping to discuss three things: \_\_\_\_. I would really appreciate your feedback on \_\_\_\_. Before I recap the progress we've made so far, and before diving in, doess that sound good to everyone? and is there anything else that folks would like to discuss?"
 
 ### **Step 2:** Summarize
