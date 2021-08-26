@@ -6,4 +6,6 @@ description: 'Introduction, course overview, and Paper Reading Part 1'
 hide_from_announcments: true
 --- 
 
+**Before class:** TBD
+
 **In class:** [How to read a research paper](/materials/how-to-read-a-research-paper/)
