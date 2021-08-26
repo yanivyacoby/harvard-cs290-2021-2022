@@ -30,24 +30,25 @@ and (b) a step-by-step template for running your meetings to get you started.
 ### **Step 1:** Outline
 
 * Start by **outlining** what you will be discussing in this meeting, as well as what **feedback** you are specifically hoping to get from your collaborators.
-
 * Your meeting-time can be used in a variety of ways -- unstructured thinking (e.g. formulating a research question, coming up with new projects or directions), active work on trying to make progress (e.g. debugging, diagnosing strange results, sketching a proof idea, designing an experiment), discussing a relevant paper you all read, soliciting feedback on writing, etc. -- just be clear from the start what the goal of the meeting is.
 > **Tip:** If giving an update on progress you've made since the last meeting, you can use language like, "In this meeting, I was hoping to discuss three things: \_\_\_\_. I would really appreciate your feedback on \_\_\_\_. Before I recap the progress we've made so far, and before diving in, doess that sound good to everyone? and is there anything else that folks would like to discuss?"
 
 ### **Step 2:** Summarize
 
-Very briefly, **summarize** the overall goal of the project, and what you’ve done until the previous meeting. Although presumably your collaborators know and remember the overall goal, research goals may **naturally change** during the course of the project, so it’s important to keep everyone on the same page.
+* Very briefly, **summarize** the overall goal of the project, and what you’ve done until the previous meeting. Although presumably your collaborators know and remember the overall goal, research goals may **naturally change** during the course of the project, so it’s important to keep everyone on the same page.
 
 ### **Step 3:** Provide Context
 
-In more detail, summarize **what** you agreed you would work on in the last meeting, and **why** what you agreed on was necessary. 
+* In more detail, summarize **what** you agreed you would work on in the last meeting, and **why** what you agreed on was necessary. 
 > **Tip:** use language like, "In our last meeting, we agreed that the best immediate next steps for the project are \_\_\_\_, since they will allow us to test our hypothesis that \_\_\_\_. This is what I’ve been investigating since our last meeting."
 
 ### **Step 4:** Dive in
-Once you’ve set the stage, dive into the update! If you are looking to share results in this meeting, be sure to give a **high-level synthesis** before delving into the details, and summarize the results again after presenting the details. If you're looking to brainstorm, solicit feedback on writing, discuss a paper, list the questions / topics you want to discuss. 
+
+* Once you’ve set the stage, dive into the update! If you are looking to share results in this meeting, be sure to give a **high-level synthesis** before delving into the details, and summarize the results again after presenting the details. 
+* If you're looking to brainstorm, solicit feedback on writing, discuss a paper, list the questions / topics you want to discuss. 
 
 ### **Step 5:** Next Steps
 
-After you’ve given your update and solicited feedback from your collaborators, be sure to discuss **next steps**. 
-Lastly, before the meeting ends, **summarize** the next steps agreed on. This will help **prevent miscommunication**. 
+* After you’ve given your update and solicited feedback from your collaborators, be sure to discuss **next steps**. 
+* Lastly, before the meeting ends, **summarize** the next steps agreed on. This will help **prevent miscommunication**. 
 > **Tip:** use language like, "Based on your feedback, it sounds like the next priority items on my agenda are \_\_\_\_. Does that sound good to everyone?". 
