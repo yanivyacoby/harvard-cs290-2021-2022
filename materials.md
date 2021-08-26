@@ -6,11 +6,12 @@ permalink: /materials/
 
 ## Skill Building
 
-* [How to read a research paper](/harvard-cs290/materials/how-to-read-a-research-paper)
 * [How to make the most out of your PhD: a guide from current to incoming students](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html), which discusses:
   1. What should you expect from yourself in your first year?
   2. What does your advisor expect from you in your first year?
   3. How can you be supportive of your peers?
+* [How to read a research paper](/harvard-cs290/materials/how-to-read-a-research-paper)
+* [How to communicate about weekly progress with your collaborators](/harvard-cs290/materials/communication-in-collaborative-environments)
 * [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html) (by Professor Steven Swanson, UCSD)
 
 ## Academic Culture
