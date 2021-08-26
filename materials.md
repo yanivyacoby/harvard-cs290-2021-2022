@@ -14,13 +14,6 @@ permalink: /materials/
 * [How to communicate about weekly progress with your collaborators](/harvard-cs290/materials/communication-in-collaborative-environments)
 * [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html) (by Professor Steven Swanson, UCSD)
 
-## Academic Culture
-
-TODO.
-
-## Mental Health
-
-TODO.
 
 ## Professional Development
 
