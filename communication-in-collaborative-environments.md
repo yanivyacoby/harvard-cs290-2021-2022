@@ -10,7 +10,7 @@ spontaneous blackboard brainstorming sessions, good communication practices will
 come up with new directions, as well as get clearer and more structured feedback on your work, etc. 
 As such, it is important to stay organized and be proactive about soliciting feedback from your collaborators. 
 
-In this tutorial, we provide (a) general tips about how to run meetings, 
+In this guide, we provide (a) general tips about how to run meetings, 
 and (b) a step-by-step template for running your meetings to get you started.
 
 
@@ -26,6 +26,9 @@ and (b) a step-by-step template for running your meetings to get you started.
 3. **Before the meeting**, you may find it useful to send notes summarizing what you’ll be discussing in the meeting and what feedback you would like (you can follow the step-by-step template below). This can help give your collaborators **more time to think** about your project and give you more meaningful feedback.
   * **Tip:** Having visual aids for the meeting can be incredibly helpful. Google docs and google slides make it easy to share notes and figures. For sharing more math-heavy notes, consider using something like hackmd.io, which allows you to mix markdown with LaTeX. By using one of these collaborative online tools, your collaborators can also leave you comments as they look through your meeting materials.  
 4. **After the meeting**, message all of your collaborators with the **agreed-upon** next steps to make sure everyone is on the same page.  
+
+
+---
 
 
 ## Step-by-Step Template for Running Your Meeting
