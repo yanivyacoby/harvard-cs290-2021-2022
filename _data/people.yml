@@ -13,3 +13,9 @@ instructors:
 #  - name: Harry Potter
 #    profile_pic: /_images/pp/potter.jpg
 #    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+
+feedback:
+  - name: Finale Doshi-Velez
+    webpage: https://finale.seas.harvard.edu/
+  - name: David Brooks
+    webpage: http://www.eecs.harvard.edu/~dbrooks/
