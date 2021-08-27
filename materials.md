@@ -90,6 +90,7 @@ Below are some resources to help you get started thinking about these issues.
 * [Et al. for all: Citations as a Tool for Racial Equity, Inclusion, and Justice](https://rurisi.com/citation-guide)
 * [Racial and ethnic imbalance in neuroscience reference lists and intersections with gender](https://www.biorxiv.org/content/10.1101/2020.10.12.336230v1.full)
 * [The myth of the lone genius](https://www.nobelprize.org/martin-chalfie-npii-canada/)
+* [The Disappeared: Beyond Winning and Losing](https://www.computer.org/csdl/magazine/co/2018/10/mco2018100066/17D45WXIkDI)
 
 
 ## Problems with Publishing 
