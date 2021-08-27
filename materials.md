@@ -33,6 +33,10 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
 * [How to communicate about weekly progress with your collaborators](/harvard-cs290/materials/communication-in-collaborative-environments)
 * [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html) (by Professor Steven Swanson, UCSD)
 * [Professor Margo Seltzer's Tips on Writing a Thesis](http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html)
+* Graduate fellowship opportunities in Computer Science
+  * [List compiled by CMU](https://www.cs.cmu.edu/~gradfellowships/)
+  * [List compiled by NC State](https://www.csc.ncsu.edu/dgp/fellowships.html)
+
 
 
 ## Different Professional Paths
@@ -119,10 +123,3 @@ We hope that some of these resources can help with understanding mental health c
   * [Mental Health in Academia by Fay Lin](https://www.youtube.com/watch?v=MHQapcmA9JU)
   * [Grad Chat Podcast by PhD Balance](https://anchor.fm/phd-balance)
 
-
-
-## Professional Development
-
-* Graduate fellowship opportunities in Computer Science
-  * [List compiled by CMU](https://www.cs.cmu.edu/~gradfellowships/)
-  * [List compiled by NC State](https://www.csc.ncsu.edu/dgp/fellowships.html)
