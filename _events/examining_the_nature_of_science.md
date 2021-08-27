@@ -8,4 +8,5 @@ hide_from_announcments: true
 
 **Before class:** TBD
 
-**Guest:** [Professor Sheila Jasanoff](https://sheilajasanoff.org/)
+**In class:**
+* Guest: [Professor Sheila Jasanoff](https://sheilajasanoff.org/)
