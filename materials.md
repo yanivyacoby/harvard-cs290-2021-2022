@@ -48,6 +48,29 @@ from your mentors in hope to help you understand different professional paths:
 * [Why it is not a 'failure' to leave academia](https://www.nature.com/articles/d41586-018-05838-y)
 * To get a sense for what life might look like initially for an assistant professor at an R1 institution, [Advising Junior Colleagues](http://mis-misinformation.blogspot.com/2013/06/advising-junior-colleagues.html)
 
+## Power Dynamics in Scientific Communities
+
+Who decides which questions are interesting, what research is important and what research gets funded? 
+How does this bias the scientific community towards specific types of discourse, 
+and how does this ultimately affect our societal values and community? 
+It is important to be cognizant of what forces shape our scientific communities, 
+to be skeptical of and to challenge pre-existing values to ensure 
+our research does not create or exacerbate disparities in our society. 
+We list some case-studies below that illustrate these types of power dynamics in 
+scientific communities as a starting point for you to engage with these issues. 
+
+* ML/AI Research: 
+  * [Computing Technology as Racial Infrastructure: A History of the Present & Blueprint for Black Future](https://www.youtube.com/watch?v=g7WcCjL14iQ)
+  * [Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes](https://arxiv.org/abs/1711.08412)
+* Fairness, Accountability, Transparency Research: 
+  * [Beyond Bias: Re-imagining the Terms of “Ethical AI” in Criminal Law](https://www.law.georgetown.edu/mcrp-journal/wp-content/uploads/sites/22/2021/01/GT-GCRP200014.pdf)
+  * ["Fair" Risk Assessments: A Precarious Approach for Criminal Justice Reform](https://www.benzevgreen.com/wp-content/uploads/2019/02/18-fatml.pdf)
+* Algorithms Research: 
+  * [Safiya Umoja Noble: Algorithms of Oppression](https://www.youtube.com/watch?v=Q7yFysTBpAo)
+* Systems / Networks Research: 
+  * [The Journey of a Complaint at SIGCOMM HotNets 2020](https://ajsangeetha.wordpress.com/2021/02/18/the-journey-of-a-complaint-at-sigcomm-hotnets-2020/)
+
+
 
 ## Professional Development
 
