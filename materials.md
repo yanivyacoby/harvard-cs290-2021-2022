@@ -71,6 +71,22 @@ scientific communities as a starting point for you to engage with these issues.
   * [The Journey of a Complaint at SIGCOMM HotNets 2020](https://ajsangeetha.wordpress.com/2021/02/18/the-journey-of-a-complaint-at-sigcomm-hotnets-2020/)
 
 
+## Academic Language and Currency
+
+What is academic culture (language, customs, and values)? 
+Who does this culture exclude and undervalue? 
+And who does it include and award credit and recognition? 
+As members of the academic and scientific communities, 
+it is important for us to think about these questions, 
+and examine our notions of meritocracy and individual excellence. 
+Below are some resources to help you get started thinking about these issues.
+
+* ["The Pursuit of Collective Intelligence"](https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01d4c974-d005-434a-8544-a8cf0179150f), a Talk by Professor Radhika Nagpal
+* [Silent Technical Privilege: As a novice computer programmer, I always got the benefit of the doubt -- because I looked the part.](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html) 
+* [Et al. for all: Citations as a Tool for Racial Equity, Inclusion, and Justice](https://rurisi.com/citation-guide)
+* [Racial and ethnic imbalance in neuroscience reference lists and intersections with gender](https://www.biorxiv.org/content/10.1101/2020.10.12.336230v1.full)
+* [The myth of the lone genius](https://www.nobelprize.org/martin-chalfie-npii-canada/)
+
 
 ## Professional Development
 
