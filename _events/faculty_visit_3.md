@@ -8,5 +8,5 @@ hide_from_announcments: true
 
 **Before class:** TBD
 
-**In class:**:
+**In class:**
 * Guest: TBD
