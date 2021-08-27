@@ -81,6 +81,16 @@ layout: default
                 <span>{{person.name}}{{ ", " if not loop.last }}</span>
                 {% endif %}                
             {% endfor %}
+        </p>        
+        <p>
+            This course draws on: 
+            {% for course in site.data.people.draws %}
+                {% if course.webpage %}
+                <span><a href="{{ course.webpage }}">{{course.name}}</a>{{ ", " if not loop.last }}</span>
+                {% else %}
+                <span>{{course.name}}{{ ", " if not loop.last }}</span>
+                {% endif %}                
+            {% endfor %}
         </p>
     </div>
     
