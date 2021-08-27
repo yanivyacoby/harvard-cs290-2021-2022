@@ -31,7 +31,7 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
   3. How can you be supportive of your peers?
 * [How to read a research paper](/harvard-cs290/materials/how-to-read-a-research-paper)
 * [How to communicate about weekly progress with your collaborators](/harvard-cs290/materials/communication-in-collaborative-environments)
-* [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html) (by Professor Steven Swanson, UCSD)
+* [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html)
 * [Professor Margo Seltzer's Tips on Writing a Thesis](http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html)
 * Graduate fellowship opportunities in Computer Science
   * [List compiled by CMU](https://www.cs.cmu.edu/~gradfellowships/)
@@ -50,7 +50,7 @@ from your mentors in hope to help you understand different professional paths:
 * [Why is it so hard for scientists to talk about leaving academia?](https://massivesci.com/articles/science-academia-phd-scicomm-advisers/)
 * [Most Ph.Ds aren't professors](https://medium.com/bits-and-behavior/most-ph-d-s-arent-professors-13a741ef6868)
 * [Why it is not a 'failure' to leave academia](https://www.nature.com/articles/d41586-018-05838-y)
-* To get a sense for what life might look like initially for an assistant professor at an R1 institution, [Advising Junior Colleagues](http://mis-misinformation.blogspot.com/2013/06/advising-junior-colleagues.html)
+* To get a sense for what life might look like initially for an assistant professor at an R1 institution, see [Advising Junior Colleagues](http://mis-misinformation.blogspot.com/2013/06/advising-junior-colleagues.html)
 
 ## Power Dynamics in Scientific Communities
 
