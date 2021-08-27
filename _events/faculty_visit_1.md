@@ -8,4 +8,6 @@ hide_from_announcments: true
 
 **Before class:** None
 
-**Guest:** [Professor Stuart Shieber](http://www.eecs.harvard.edu/shieber/)
+**In class:**:
+* Guest: [Professor Stuart Shieber](http://www.eecs.harvard.edu/shieber/)
+* Discussion on publication norms
