@@ -15,7 +15,24 @@ instructors:
 #    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
 
 feedback:
-  - name: Finale Doshi-Velez
-    webpage: https://finale.seas.harvard.edu/
   - name: David Brooks
     webpage: http://www.eecs.harvard.edu/~dbrooks/
+  - name: Finale Doshi-Velez
+    webpage: https://finale.seas.harvard.edu/
+  - name: Isaac Lage
+    webpage: https://isaaclage.github.io/
+  - name: Krzysztof Gajos
+    webpage: http://www.eecs.harvard.edu/~kgajos/
+  - name: Lillian Pentecost
+    webpage: https://lpentecost.github.io/cv/
+  - name: Margo Seltzer
+    webpage: https://www.seltzer.com/margo/
+  - name: Sam Hsia
+    webpage: 
+  - name: Udit Gupta
+    webpage: https://ugupta.com/
+  - name: Weiwei Pan
+    webpage: https://onefishy.github.io/
+  - name: Zana Bucinca
+    webpage: https://zbucinca.owlstown.net/
+
