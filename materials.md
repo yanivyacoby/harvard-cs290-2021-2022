@@ -88,6 +88,20 @@ Below are some resources to help you get started thinking about these issues.
 * [The myth of the lone genius](https://www.nobelprize.org/martin-chalfie-npii-canada/)
 
 
+## Problems with Publishing 
+
+Publications and citations serve as a form of currency in academic communities. 
+As such, as academics, we often entangle our sense of self-worth with our publishing record. 
+The publishing and peer-review processes are far from perfect, 
+and we believe that understanding their pitfalls will help you disentangle your sense of self-worth, 
+from the quality of the work you produce, 
+and from the peer-reviews and publishing record of your research (whether good or bad). 
+
+* [The NeurIPS experiment (2014)](http://blog.mrtz.org/2014/12/15/the-nips-experiment.html), and a recent [retrospective](http://inverseprobability.com/talks/notes/the-neurips-experiment.html)
+* [Misinformation in and about science](https://www.pnas.org/content/118/15/e1912444117)
+* [Publish or perish: Where are we heading?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3999612/)
+
+
 ## Professional Development
 
 * Graduate fellowship opportunities in Computer Science
