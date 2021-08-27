@@ -71,13 +71,13 @@ layout: default
         <div>
             <h2>Acknowledgements</h2>
             There are a number of individuals we would like to acknowledge for helpful discussions and insights throughout the development of the course:
-            {% for ins in site.data.people.feedback %}
-                {% if ins.webpage %}
-                <span><a href="{{ ins.webpage }}">{{ins.name}}</a></span>
+            {% for person in site.data.people.feedback %}
+                {% if person.webpage %}
+                <span><a href="{{ person.webpage }}">{{person.name}}{{ ", " if not loop.last else "" }}</a></span>
                 {% else %}
-                <span>{{ins.name}}</span>
+                <span>{{person.name}}{{ ", " if not loop.last else "" }}</span>
                 {% endif %}
-                {{ ", " if not loop.last else "" }}
+                
             {% endfor %}
         </div>
         
