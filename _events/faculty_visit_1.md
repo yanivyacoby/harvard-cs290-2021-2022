@@ -8,6 +8,6 @@ hide_from_announcments: true
 
 **Before class:** None
 
-**In class:**:
+**In class:**
 * Guest: [Professor Stuart Shieber](http://www.eecs.harvard.edu/shieber/)
 * Discussion about the publication industry 
