@@ -35,6 +35,20 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
 * [Professor Margo Seltzer's Tips on Writing a Thesis](http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html)
 
 
+## Different Professional Paths
+When pursuing your PhD, you will be surrounded by academics, and you may feel pressure to pursue a similar career path. 
+There are of course many career options that are fulfilling, whether in academia, 
+industry, government, or NGOs, and many different ways to use the skills you develop in your PhD 
+(even in jobs that do not list “PhD” as a qualification). 
+We list some articles here that share perspectives you may hear less frequently 
+from your mentors in hope to help you understand different professional paths: 
+
+* [Why is it so hard for scientists to talk about leaving academia?](https://massivesci.com/articles/science-academia-phd-scicomm-advisers/)
+* [Most Ph.Ds aren't professors](https://medium.com/bits-and-behavior/most-ph-d-s-arent-professors-13a741ef6868)
+* [Why it is not a 'failure' to leave academia](https://www.nature.com/articles/d41586-018-05838-y)
+* To get a sense for what life might look like initially for an assistant professor at an R1 institution, [Advising Junior Colleagues](http://mis-misinformation.blogspot.com/2013/06/advising-junior-colleagues.html)
+
+
 ## Professional Development
 
 * Graduate fellowship opportunities in Computer Science
