@@ -10,4 +10,4 @@ hide_from_announcments: true
 
 **In class:**:
 * Guest: [Professor Stuart Shieber](http://www.eecs.harvard.edu/shieber/)
-* Discussion on publication norms
+* Discussion about the publication industry 
