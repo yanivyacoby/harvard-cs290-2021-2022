@@ -70,7 +70,7 @@ scientific communities as a starting point for you to engage with these issues.
   * [Beyond Bias: Re-imagining the Terms of “Ethical AI” in Criminal Law](https://www.law.georgetown.edu/mcrp-journal/wp-content/uploads/sites/22/2021/01/GT-GCRP200014.pdf)
   * ["Fair" Risk Assessments: A Precarious Approach for Criminal Justice Reform](https://www.benzevgreen.com/wp-content/uploads/2019/02/18-fatml.pdf)
 * Algorithms Research: 
-  * Algorithms of oppression: how search engines reinforce racism ([talk](https://www.youtube.com/watch?v=Q7yFysTBpAo), [book on Hollis](https://hollis.harvard.edu/permalink/f/1s5nto6/01HVD_ALMA512273206120003941))
+  * Algorithms of Oppression: How Search Engines Reinforce Racism ([talk](https://www.youtube.com/watch?v=Q7yFysTBpAo), [book via Hollis](https://hollis.harvard.edu/permalink/f/1s5nto6/01HVD_ALMA512273206120003941))
 * Systems / Networks Research: 
   * [The Journey of a Complaint at SIGCOMM HotNets 2020](https://ajsangeetha.wordpress.com/2021/02/18/the-journey-of-a-complaint-at-sigcomm-hotnets-2020/)
 
