@@ -69,6 +69,11 @@ layout: default
         
         <br/>
         <h2>Acknowledgements</h2>
-        {% include acknowledgements.html %}
+        {% for person in site.data.acknowledgements.feedback %}
+        {% if person.webpage %}
+        <p><a href="{{ person.webpage }}">{{person.name}}</a></p>
+        {% else %}
+        <p>{{person.name}}</p>
+        {% endif %}
     </div>
 </div>
