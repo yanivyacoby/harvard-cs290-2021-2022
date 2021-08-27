@@ -70,6 +70,14 @@ layout: default
         <br>
         <div>
             <h2>Acknowledgements</h2>
+            
+            {% for ins in site.data.people.instructors %}
+                {% if ins.webpage %}
+                <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                {% else %}
+                <p>{{ins.name}}</p>
+                {% endif %}
+            {% endfor %}
         </div>
         
     </div>
