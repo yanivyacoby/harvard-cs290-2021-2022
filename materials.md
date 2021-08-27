@@ -102,6 +102,25 @@ and from the peer-reviews and publishing record of your research (whether good o
 * [Publish or perish: Where are we heading?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3999612/)
 
 
+## Mental Health in Academia
+
+Even with a supportive advisor and community, the PhD process is intellectually and emotionally challenging; 
+it often forces us to re-examine our closely-held beliefs and can challenge our sense of identity. 
+And while the process may lead to growth, it may also lead to struggle. 
+We want to normalize the struggles that PhD students face, 
+as well as the practice of openly discussing these struggles and seeking help. 
+We hope that some of these resources can help with understanding mental health challenges in academia. 
+
+* [Report of the Task Force on Managing Student Mental Health at Harvard](https://provost.harvard.edu/files/provost/files/report_of_the_task_force_on_managing_student_mental_health.pdf)
+* [“I Know I Have to Work Twice as Hard and Hope That Makes Me Good Enough”: Exploring the Stress and Strain of Black Doctoral Students in Engineering and Computing](https://vanderbilt.app.box.com/s/fs7j3c4m7l8mkprmqywrzds0iwuizi9k)
+* [“Black Genius, Asian Fail”: The Detriment of Stereotype Lift and Stereotype Threat in High-Achieving Asian and Black STEM Students](https://journals.sagepub.com/doi/full/10.1177/2332858418816658)
+* [For some graduate students, the cost of doing science is their mental health](https://whyy.org/segments/for-some-graduate-students-the-cost-of-doing-science-is-their-mental-health/)
+* PhD Balance:
+  * [Mental Health in Academia by Fay Lin](https://www.youtube.com/watch?v=MHQapcmA9JU)
+  * [Grad Chat Podcast by PhD Balance](https://anchor.fm/phd-balance)
+
+
+
 ## Professional Development
 
 * Graduate fellowship opportunities in Computer Science
