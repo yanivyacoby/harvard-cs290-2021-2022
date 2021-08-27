@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Course Overview
+## Class Overview
 
 CS290 is a discussion-based seminar designed for entering Computer Science Ph.D. students. 
 The goals of the course are three-fold: 
