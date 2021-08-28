@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Class Overview
+## Course Overview
 
 CS290 is a discussion-based seminar designed for entering Computer Science Ph.D. students. 
 The goals of the course are three-fold: 
@@ -21,7 +21,7 @@ Students must complete both terms of this course (parts A and B) within the same
 
 Please come prepared having done the readings / assignment listed on the [schedule](/harvard-cs290/schedule/) prior to class.
 
-## Class Policy
+## Course Policy
 
 **Attendance:** Class attendance and participation is mandatory. If, due to extenuating circumstances, you need to miss class, please contact the course staff ahead of time. 
 
