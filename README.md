@@ -1,4 +1,4 @@
-**Note:** Website uses Liquid, not Jinja.
+**Note:** Website uses Shopify Liquid, not Jinja.
 
 # Features
 - Individual page for assignments, lectures, course material, course schedule
