@@ -22,7 +22,7 @@ layout: default
         <h2>Course Staff</h2>
         <ul>
             {% for ins in site.data.people.instructors %}
-            <li class="image--cover-container" style="display:inline">
+            <li class="image--cover-container" style="display: inline;">
                 <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                 {% if ins.webpage %}
                 <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
