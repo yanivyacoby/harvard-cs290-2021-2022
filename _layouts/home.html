@@ -34,7 +34,7 @@ layout: default
                 {% if person.webpage %}
                 <span><a href="{{ person.webpage }}">{{person.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
                 {% else %}
-                <span>{{person.name}}, </span>
+                <span>{{person.name}}{% unless forloop.last %}, {% endunless %}</span>
                 {% endif %}                
             {% endfor %}
         </p>        
@@ -42,9 +42,9 @@ layout: default
             This course draws on: 
             {% for course in site.data.people.draws %}
                 {% if course.webpage %}
-                <span><a href="{{ course.webpage }}">{{course.name}}</a>, </span>
+                <span><a href="{{ course.webpage }}">{{course.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
                 {% else %}
-                <span>{{course.name}}, </span>
+                <span>{{course.name}}{% unless forloop.last %}, {% endunless %}</span>
                 {% endif %}                
             {% endfor %}
         </p>
