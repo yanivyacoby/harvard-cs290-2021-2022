@@ -8,11 +8,6 @@ layout: default
 
     {% include announcements.html %}
     <br />
-
-    <!--
-    <h2>Course Description</h2>
-    <p>{{ site.course_description }}</p>
-    -->
     
     {{ content }}
     
@@ -37,7 +32,7 @@ layout: default
             There are a number of people we would like to acknowledge for helpful discussions and insights throughout the development of this offering of the course:
             {% for person in site.data.people.feedback %}
                 {% if person.webpage %}
-                <span><a href="{{ person.webpage }}">{{person.name}}</a>{{ ", " if not loop.last }}</span>
+                <span><a href="{{ person.webpage }}">{{person.name}}</a>{{ ", " if not loop.last else "." }}</span>
                 {% else %}
                 <span>{{person.name}}{{ ", " if not loop.last }}</span>
                 {% endif %}                
@@ -47,9 +42,9 @@ layout: default
             This course draws on: 
             {% for course in site.data.people.draws %}
                 {% if course.webpage %}
-                <span><a href="{{ course.webpage }}">{{course.name}}</a>{{ ", " if not loop.last }}</span>
+                <span><a href="{{ course.webpage }}">{{course.name}}</a>{{ ", " if not loop.last else "." }}</span>
                 {% else %}
-                <span>{{course.name}}{{ ", " if not loop.last }}</span>
+                <span>{{course.name}}{{ ", " if not loop.last else "." }}</span>
                 {% endif %}                
             {% endfor %}
         </p>
