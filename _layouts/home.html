@@ -32,7 +32,7 @@ layout: default
             There are a number of people we would like to acknowledge for helpful discussions and insights throughout the development of this offering of the course:
             {% for person in site.data.people.feedback %}
                 {% if person.webpage %}
-                <span><a href="{{ person.webpage }}">{{person.name}}</a>{% if not forloop.last %}, {% else %}.{% endif %}</span>
+                <span><a href="{{ person.webpage }}">{{person.name}}</a>{{ ", " if not forloop.last else "." }}</span>
                 {% else %}
                 <span>{{person.name}}{{ ", " if not loop.last }}</span>
                 {% endif %}                
