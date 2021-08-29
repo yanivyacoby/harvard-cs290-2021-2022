@@ -9,5 +9,5 @@ hide_from_announcments: true
 **Before class:** TBD
 
 **In class:** 
-* [How to read a research paper](/materials/how-to-read-a-research-paper/)
+* [How to read a research paper](/harvard-cs290/materials/how-to-read-a-research-paper)
 * Practice reading (*don't read before class!*): [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
