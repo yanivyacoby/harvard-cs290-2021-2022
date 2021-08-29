@@ -7,7 +7,7 @@ hide_from_announcments: true
 ---
 
 **Before class:** 
-* Review [how to read a research paper](/materials/how-to-read-a-research-paper/)
+* Review [how to read a research paper](/harvard-cs290/materials/how-to-read-a-research-paper)
 
 **In class:** practice paper-reading (*don't read before class!*)
 * [Rx: Treating Bugs As Allergies -- A Safe Method to Survive Software Failures](https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/Rx-SOSP05.pdf)
