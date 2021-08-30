@@ -71,8 +71,11 @@ scientific communities as a starting point for you to engage with these issues.
   * ["Fair" Risk Assessments: A Precarious Approach for Criminal Justice Reform](https://www.benzevgreen.com/wp-content/uploads/2019/02/18-fatml.pdf)
 * Algorithms Research: 
   * Algorithms of Oppression: How Search Engines Reinforce Racism ([talk](https://www.youtube.com/watch?v=Q7yFysTBpAo), [book via Hollis](https://hollis.harvard.edu/permalink/f/1s5nto6/01HVD_ALMA512273206120003941))
+  * The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think ([TED talk](https://www.youtube.com/watch?v=B8ofWFx525s), [book](https://www.amazon.com/Filter-Bubble-Personalized-Changing-Think/dp/0143121235))
 * Systems / Networks Research: 
   * [The Journey of a Complaint at SIGCOMM HotNets 2020](https://ajsangeetha.wordpress.com/2021/02/18/the-journey-of-a-complaint-at-sigcomm-hotnets-2020/)
+* HCI Research:
+  * [Critical Race Theory for HCI](http://iogburu.people.si.umich.edu/articles/CHI2020.pdf)
 
 
 ## Academic Language and Currency
