@@ -41,9 +41,8 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
 
 ## Different Professional Paths
 
-While a career in academia may be fulfilling, e.g.
-* [What is it like to be a professor in computer science?](https://www.quora.com/What-is-it-like-to-be-a-professor-in-computer-science/answer/Ben-Y-Zhao?ch=10&oid=4104672&share=e50660c1&srid=Zmgv&target_type=answer)
-
+While a career in academia may be fulfilling 
+(e.g. * [What is it like to be a professor in computer science?](https://www.quora.com/What-is-it-like-to-be-a-professor-in-computer-science/answer/Ben-Y-Zhao?ch=10&oid=4104672&share=e50660c1&srid=Zmgv&target_type=answer)),
 when pursuing your PhD, you will be surrounded by academics, and you may feel pressure to pursue a similar career path. 
 There are of course many career options that are fulfilling, whether in academia, 
 industry, government, or NGOs, and many different ways to use the skills you develop in your PhD 
