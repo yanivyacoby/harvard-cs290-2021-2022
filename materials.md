@@ -75,6 +75,7 @@ scientific communities as a starting point for you to engage with these issues.
 * Systems / Networks Research: 
   * [The Journey of a Complaint at SIGCOMM HotNets 2020](https://ajsangeetha.wordpress.com/2021/02/18/the-journey-of-a-complaint-at-sigcomm-hotnets-2020/)
 * HCI Research:
+  * Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass ([talk](https://www.youtube.com/watch?v=D5fkupjVEp8), [book via Hollis](http://id.lib.harvard.edu/alma/99153811462003941/catalog))
   * [Critical Race Theory for HCI](http://iogburu.people.si.umich.edu/articles/CHI2020.pdf)
 
 
