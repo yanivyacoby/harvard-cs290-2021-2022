@@ -12,7 +12,7 @@ layout: default
     {{ content }}
     
     <div class="profile-pic-gallary ">
-        <h2>Course Staff</h2>
+        <h2>Instructors</h2>
         {% for ins in site.data.people.instructors %}
         <div class="image--cover-container">
             <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
