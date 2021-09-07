@@ -6,7 +6,7 @@ description: 'Introduction, course overview, and Paper Reading Part 1'
 hide_from_announcments: true
 --- 
 
-**Before class:** TBD
+**Before class:** Sign up on EdStem, complete the pre-class survey, create a slide introducing yourself on the class google-slides.
 
 **In class:** 
 * [How to read a research paper](/harvard-cs290/materials/how-to-read-a-research-paper)
