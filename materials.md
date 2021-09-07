@@ -131,3 +131,4 @@ We hope that some of these resources can help with understanding mental health c
   * [Mental Health in Academia by Fay Lin](https://www.youtube.com/watch?v=MHQapcmA9JU)
   * [Grad Chat Podcast by PhD Balance](https://anchor.fm/phd-balance)
 
+We additionally encourage you to familiar yourself with [Harvard's mental health resources](https://gsas.harvard.edu/student-life/harvard-resources/counseling), and consider finding a support network by [affinity](https://gsas.harvard.edu/diversity/student-groups) or [interest](https://engage.gsas.harvard.edu/organizations), or attending / joining a peer-to-peer support group on campus (e.g. [InTouch](https://intouch.seas.harvard.edu/)).
