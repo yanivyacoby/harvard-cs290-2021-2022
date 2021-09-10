@@ -9,4 +9,4 @@ hide_from_announcments: true
 **Before class:** TBD
 
 **In class:**
-* Guest: TBD
+* Guest: [Professor Stephanie Gil](https://gil.seas.harvard.edu/)
