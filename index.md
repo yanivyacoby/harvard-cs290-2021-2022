@@ -28,8 +28,8 @@ Please come prepared having done the readings / assignment listed on the [schedu
 **Grading:** The course is letter-graded based on your attendance, assignment work, and participation. 
 
 **Office Hours:** 
-* Yaniv: Thursdays 11am-12pm at SEC 2.122
-* John: Tuesdays 2:30pm-3pm SEC 1.101-01, except for Oct. 12 and Nov. 9 when it'll be 3-3:30pm.
+* Yaniv: Thursdays 11am-12pm @ SEC 2.122
+* John: Tuesdays 2:30pm-3pm @ SEC 1.101-01, except for Oct. 12 and Nov. 9 when it'll be 3-3:30pm.
 
 In addition to these regularly heald office hours, additional office hours with any member of the course staff can be made by appointment. 
 
