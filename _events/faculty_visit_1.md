@@ -10,4 +10,4 @@ hide_from_announcments: true
 
 **In class:**
 * Guest: [Professor Stuart Shieber](http://www.eecs.harvard.edu/shieber/)
-* Discussion about the publication industry 
+* Discussion about computational linguistics, the dissemination of research, and Professor Shieber's professional trajectory
