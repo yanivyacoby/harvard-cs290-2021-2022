@@ -12,3 +12,4 @@ hide_from_announcments: true
 
 **In class:**
 * Guest: [Professor Sheila Jasanoff](https://sheilajasanoff.org/)
+* Discussion of the pre-class reading
