@@ -55,7 +55,8 @@ from your mentors in hope to help you understand different professional paths:
 * [Why it is not a 'failure' to leave academia](https://www.nature.com/articles/d41586-018-05838-y)
 * To get a sense for what life might look like initially for an assistant professor at an R1 institution, see [Advising Junior Colleagues](http://mis-misinformation.blogspot.com/2013/06/advising-junior-colleagues.html)
 
-## Power Dynamics in Scientific Communities
+
+## Power Dynamics and Research in Context
 
 Who decides which questions are interesting, what research is important and what research gets funded? 
 How does this bias the scientific community towards specific types of discourse, 
@@ -63,23 +64,26 @@ and how does this ultimately affect our societal values and community?
 It is important to be cognizant of what forces shape our scientific communities, 
 to be skeptical of and to challenge pre-existing values to ensure 
 our research does not create or exacerbate disparities in our society. 
-We list some case-studies below that illustrate these types of power dynamics in 
+We list some papers below that illustrate these types of power dynamics in 
 scientific communities as a starting point for you to engage with these issues. 
 
-* ML/AI Research: 
-  * [Computing Technology as Racial Infrastructure: A History of the Present & Blueprint for Black Future](https://www.youtube.com/watch?v=g7WcCjL14iQ)
-  * [Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes](https://arxiv.org/abs/1711.08412)
-* Fairness, Accountability, Transparency Research: 
-  * [Beyond Bias: Re-imagining the Terms of “Ethical AI” in Criminal Law](https://www.law.georgetown.edu/mcrp-journal/wp-content/uploads/sites/22/2021/01/GT-GCRP200014.pdf)
-  * ["Fair" Risk Assessments: A Precarious Approach for Criminal Justice Reform](https://www.benzevgreen.com/wp-content/uploads/2019/02/18-fatml.pdf)
-* Algorithms Research: 
-  * Algorithms of Oppression: How Search Engines Reinforce Racism ([talk](https://www.youtube.com/watch?v=Q7yFysTBpAo), [book via Hollis](https://hollis.harvard.edu/permalink/f/1s5nto6/01HVD_ALMA512273206120003941))
-  * The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think ([TED talk](https://www.youtube.com/watch?v=B8ofWFx525s), [book](https://www.amazon.com/Filter-Bubble-Personalized-Changing-Think/dp/0143121235))
-* Systems / Networks Research: 
-  * [The Journey of a Complaint at SIGCOMM HotNets 2020](https://ajsangeetha.wordpress.com/2021/02/18/the-journey-of-a-complaint-at-sigcomm-hotnets-2020/)
-* HCI Research:
-  * Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass ([talk](https://www.youtube.com/watch?v=zj2DEQCOTh0), [book via Hollis](http://id.lib.harvard.edu/alma/99153811462003941/catalog))
-  * [Critical Race Theory for HCI](http://iogburu.people.si.umich.edu/articles/CHI2020.pdf)
+* [Saving Science](https://www.thenewatlantis.com/publications/saving-science)
+* [Computing Technology as Racial Infrastructure: A History of the Present & Blueprint for Black Future](https://www.youtube.com/watch?v=g7WcCjL14iQ)
+* [Beyond Bias: Re-imagining the Terms of “Ethical AI” in Criminal Law](https://www.law.georgetown.edu/mcrp-journal/wp-content/uploads/sites/22/2021/01/GT-GCRP200014.pdf)
+* ["Fair" Risk Assessments: A Precarious Approach for Criminal Justice Reform](https://www.benzevgreen.com/wp-content/uploads/2019/02/18-fatml.pdf)
+* [Critical Race Theory for HCI](http://iogburu.people.si.umich.edu/articles/CHI2020.pdf)
+
+
+
+## Understanding Research in Societal Contexts
+
+As scientists and engineers we might be tempted to think of the technology we design, along with the intended end-users, as a closed system. This is misleading because our research is embedded in a complex human system (i.e. society) where human values and history shape what research questions we consider interesting and important, and where our intended end-users are one actor in a web of stake-holders that may come in contact with or will be affected by our technology. In order to understand where our research questions come from and gauge the true down-stream effects of our reasearch output, we have to broaden our impact analysis to consider historical, cultural, political and social contexts. 
+
+* [Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes](https://arxiv.org/abs/1711.08412)
+* Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass ([talk](https://www.youtube.com/watch?v=zj2DEQCOTh0), [book via Hollis](http://id.lib.harvard.edu/alma/99153811462003941/catalog))
+* Algorithms of Oppression: How Search Engines Reinforce Racism ([talk](https://www.youtube.com/watch?v=Q7yFysTBpAo), [book via Hollis](https://hollis.harvard.edu/permalink/f/1s5nto6/01HVD_ALMA512273206120003941))
+* The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think ([TED talk](https://www.youtube.com/watch?v=B8ofWFx525s), [book](https://www.amazon.com/Filter-Bubble-Personalized-Changing-Think/dp/0143121235))
+
 
 
 ## Academic Language and Currency
@@ -93,6 +97,7 @@ and examine our notions of meritocracy and individual excellence.
 Below are some resources to help you get started thinking about these issues.
 
 * ["The Pursuit of Collective Intelligence"](https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01d4c974-d005-434a-8544-a8cf0179150f), a Talk by Professor Radhika Nagpal
+* [The Matthew Matilda Effect in Science](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/285482?seq=1#metadata_info_tab_contents)
 * [Silent Technical Privilege: As a novice computer programmer, I always got the benefit of the doubt -- because I looked the part.](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html) 
 * [Et al. for all: Citations as a Tool for Racial Equity, Inclusion, and Justice](https://rurisi.com/citation-guide)
 * [Racial and ethnic imbalance in neuroscience reference lists and intersections with gender](https://www.biorxiv.org/content/10.1101/2020.10.12.336230v1.full)
@@ -112,6 +117,7 @@ and from the peer-reviews and publishing record of your research (whether good o
 * [The NeurIPS experiment (2014)](http://blog.mrtz.org/2014/12/15/the-nips-experiment.html), and a recent [retrospective](http://inverseprobability.com/talks/notes/the-neurips-experiment.html)
 * [Misinformation in and about science](https://www.pnas.org/content/118/15/e1912444117)
 * [Publish or perish: Where are we heading?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3999612/)
+* [The Journey of a Complaint at SIGCOMM HotNets 2020](https://ajsangeetha.wordpress.com/2021/02/18/the-journey-of-a-complaint-at-sigcomm-hotnets-2020/)
 
 
 ## Mental Health in Academia
