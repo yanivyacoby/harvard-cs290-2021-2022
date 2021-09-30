@@ -40,7 +40,7 @@ and (b) a step-by-step template for running your meetings to get you started.
 ### **Step 3:** Provide Context
 
 * In more detail, summarize **what** you agreed you would work on in the last meeting, and **why** what you agreed on was necessary. 
-> **Tip:** use language like, "In our last meeting, we agreed that the best immediate next steps for the project are \_\_\_\_, since they will allow us to test our hypothesis that \_\_\_\_. This is what I’ve been investigating since our last meeting."
+> **Tip:** use language like, "In our last meeting, we agreed that the best immediate next steps for the project are \_\_\_\_, since they will allow us to test our hypothesis that \_\_\_\_. This is what I’ve been investigating since our last meeting (Or, I went in a different direction, because \_\_\_\_)."
 
 ### **Step 4:** Dive in
 
