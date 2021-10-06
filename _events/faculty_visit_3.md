@@ -9,4 +9,4 @@ hide_from_announcments: true
 **Before class:** TBD
 
 **In class:**
-* Guest: TBD
+* Guest: [Professor Barbara Grosz](https://grosz.seas.harvard.edu/)
