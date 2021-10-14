@@ -33,7 +33,7 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
 * [How to communicate about weekly progress with your collaborators](/harvard-cs290/materials/communication-in-collaborative-environments)
 * [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html)
 * [Professor Margo Seltzer's Tips on Writing a Thesis](http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html)
-* About Graduate fellowship opportunities in Computer Science
+* About Graduate fellowship opportunities in Computer Science:
   * Lists of fellowships compiled by [John Girash](https://wiki.harvard.edu/confluence/pages/viewpage.action?spaceKey=SEASDOCSOAP&title=List+of+external+fellowships), by [CMU](https://www.cs.cmu.edu/~gradfellowships/), and by [NC State](https://www.csc.ncsu.edu/dgp/fellowships.html)
   * Fellowship advice compiled by [Harvard](https://gsas.harvard.edu/financial-support/fellowships) and by [MIT](https://oge.mit.edu/finances/fellowships/fellowship-tips/). 
 
