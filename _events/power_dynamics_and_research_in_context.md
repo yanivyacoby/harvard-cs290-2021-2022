@@ -2,7 +2,7 @@
 type: raw_event
 date: 2021-10-07T09:45:00
 name: In Class
-description: 'Examining the nature of science'
+description: 'Power Dynamics and Research in Context'
 hide_from_announcments: true
 ---
 
