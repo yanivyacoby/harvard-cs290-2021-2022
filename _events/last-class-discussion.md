@@ -6,6 +6,10 @@ description: 'Class discussion: reflections on the past semester'
 hide_from_announcments: true
 ---
 
-**Before class:** TBD
+**In class:** Discussionabout,
+* What did you learn in your first semester of the PhD that you didn’t expect to learn?
+* What was the most rewarding / challenging experience of the first semester?
+* What do you expect of yourself, and what are your goals and hopes for the spring semester?
 
-**In class:** Discussion
+
+**After class:** Sign up for 1-on-1 chats with Yaniv.
