@@ -12,3 +12,4 @@ hide_from_announcments: true
 
 **In class:**
 * Guest: [Professor Barbara Grosz](https://grosz.seas.harvard.edu/)
+* Discussion about Professor Grosz's professional trajectory and advocay, the myth of the "lone scientist", Embedded EthiCS.
