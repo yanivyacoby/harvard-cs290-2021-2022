@@ -6,4 +6,4 @@ description: 'Winter Recess'
 hide_from_announcments: true
 ---
 
-Take time to recharge. 
+**Take time to recharge.**
