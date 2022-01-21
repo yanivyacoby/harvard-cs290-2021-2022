@@ -2,7 +2,7 @@
 type: raw_event
 date: 2022-01-27T09:45:00
 name: In Class
-description: 'First Spring Class'
+description: 'Faculty Visit'
 hide_from_announcments: true
 ---
 
