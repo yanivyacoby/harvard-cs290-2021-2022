@@ -9,4 +9,4 @@ hide_from_announcments: true
 **Before class:** TBD
 
 **In class:**
-* Guest: [Alexis Stokes](https://edib.harvard.edu/), the Associate Chief Diversity and Inclusion Officer
+* Guest: [Dr. Alexis Stokes](https://edib.harvard.edu/people), the Associate Chief Diversity and Inclusion Officer
