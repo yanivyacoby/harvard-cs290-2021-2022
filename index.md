@@ -25,11 +25,11 @@ Please come prepared having done the readings / assignment listed on the [schedu
 
 **Attendance:** Class attendance and participation is mandatory. If, due to extenuating circumstances, you need to miss class, please contact the course staff ahead of time. 
 
-**Grading:** The course is letter-graded based on your attendance, assignment work, and participation. 
+**Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and more than 1-2 absences, unless excused, may affect your final grade in the course.
 
 **Office Hours:** 
 * Yaniv: Thursdays 11am-12pm @ SEC 2.122
-* John: Tuesdays 2:30pm-3pm @ SEC 1.101-01, except for Oct. 12 and Nov. 9 when it'll be 3-3:30pm.
+* John: Tuesdays 2:30pm-3pm @ SEC 1.101-01
 
 In addition to these regularly heald office hours, additional office hours with any member of the course staff can be made by appointment. 
 
