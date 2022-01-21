@@ -2,7 +2,7 @@
 type: raw_event
 date: 2022-04-21T09:45:00
 name: In Class
-description: 'TBD'
+description: 'Class discussion: reflections on the past year'
 hide_from_announcments: true
 ---
 
