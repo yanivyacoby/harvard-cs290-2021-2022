@@ -15,4 +15,5 @@ hide_from_announcments: true
 
 **In class:**
 * Guest: [Danielle Farrell](https://gsas.harvard.edu/person/danielle-farrell), the Director of Student Services
-* Discuss readings, how to support peers, how to create a web of support
+* Special note: no faculty present
+* Discussion of readings, how to support peers, how to create a web of support
