@@ -11,5 +11,5 @@ hide_from_announcments: true
 
 **In class:**
 * Guest: [Professor James Mickens](https://mickens.seas.harvard.edu/) 
-
+* Discussion about building research skills as a new grad student, mental health, and issues faced by academics from underrepresented backgrounds.
 
