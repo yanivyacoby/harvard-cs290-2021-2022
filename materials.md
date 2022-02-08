@@ -133,6 +133,7 @@ We hope that some of these resources can help with understanding mental health c
 * [“I Know I Have to Work Twice as Hard and Hope That Makes Me Good Enough”: Exploring the Stress and Strain of Black Doctoral Students in Engineering and Computing](https://vanderbilt.app.box.com/s/fs7j3c4m7l8mkprmqywrzds0iwuizi9k)
 * [“Black Genius, Asian Fail”: The Detriment of Stereotype Lift and Stereotype Threat in High-Achieving Asian and Black STEM Students](https://journals.sagepub.com/doi/full/10.1177/2332858418816658)
 * [For some graduate students, the cost of doing science is their mental health](https://whyy.org/segments/for-some-graduate-students-the-cost-of-doing-science-is-their-mental-health/)
+* [Dealing with Social Isolation to Minimize Doctoral Attrition -- A Four Stage Framework](https://core.ac.uk/download/pdf/190398024.pdf)
 * PhD Balance:
   * [Mental Health in Academia by Fay Lin](https://www.youtube.com/watch?v=MHQapcmA9JU)
   * [Grad Chat Podcast by PhD Balance](https://anchor.fm/phd-balance)
