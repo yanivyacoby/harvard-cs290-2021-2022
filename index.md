@@ -29,7 +29,7 @@ Please come prepared having done the readings / assignment listed on the [schedu
 
 **Office Hours:** 
 * Yaniv: Thursdays 11am-12pm @ SEC 2.122
-* John: Tuesdays 2:30pm-3pm @ SEC 1.101-01
+* John: Fridays 3-4pm @ SEC 1.101-01 or on zoom
 
 In addition to these regularly heald office hours, additional office hours with any member of the course staff can be made by appointment. 
 
