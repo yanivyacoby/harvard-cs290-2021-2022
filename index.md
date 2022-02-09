@@ -29,7 +29,7 @@ Please come prepared having done the readings / assignment listed on the [schedu
 
 **Office Hours:** 
 * Yaniv: Thursdays 11am-12pm @ SEC 2.122
-* John: Fridays 3-4pm @ SEC 1.101-01 or on zoom
+* John: Fridays 3-4pm @ SEC 1.101-01 or on [Zoom](https://harvard.zoom.us/j/99705165579?pwd=TnBKOWZzWVlFSU5ybkgvbTMzTzI5Zz09) (pw: hello).
 
 In addition to these regularly heald office hours, additional office hours with any member of the course staff can be made by appointment. 
 
