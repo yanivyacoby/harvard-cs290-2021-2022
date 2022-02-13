@@ -114,6 +114,9 @@ and we believe that understanding their pitfalls will help you disentangle your 
 from the quality of the work you produce, 
 and from the peer-reviews and publishing record of your research (whether good or bad). 
 
+* An overview of the reviewing process and how to review a paper:
+  * [The Ins and Outs of Reviewing -- what's good, what's bad, what's ugly?](https://dtai.cs.kuleuven.be/events/ReviewingTutorial/ECMLPKDD_2019_Tutorial_on_Reviewing_FULL.pdf)
+  * [Mistakes Reviewers Make](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
 * [The NeurIPS experiment (2014)](http://blog.mrtz.org/2014/12/15/the-nips-experiment.html), and a recent [retrospective](http://inverseprobability.com/talks/notes/the-neurips-experiment.html)
 * [Misinformation in and about science](https://www.pnas.org/content/118/15/e1912444117)
 * [Publish or perish: Where are we heading?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3999612/)
