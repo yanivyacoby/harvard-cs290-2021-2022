@@ -19,4 +19,4 @@ hide_from_announcments: true
 * Start work on a short follow-up assignment applying value-sensitive design to a project of interest to you
 
 **After class:**
-* Answer [these questions](https://docs.google.com/forms/d/e/1FAIpQLSecpgC8awtISyoR0iaYpJw_2ZFwSobAqyyyJzWdvc2u4wI3Wg/viewform) by midnight tonight.
+* Answer [these questions](https://docs.google.com/forms/d/e/1FAIpQLSecpgC8awtISyoR0iaYpJw_2ZFwSobAqyyyJzWdvc2u4wI3Wg/viewform) by midnight tomorrow.
