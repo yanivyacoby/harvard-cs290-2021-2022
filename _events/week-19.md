@@ -8,5 +8,7 @@ hide_from_announcments: true
 
 **Before class:** TBD
 
-**In class:** TBD
+**In class:** 
+* Discussion with PhD student-panel
+* Special note: no faculty present
 
