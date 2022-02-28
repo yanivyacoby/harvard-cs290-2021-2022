@@ -2,7 +2,7 @@
 type: raw_event
 date: 2021-09-30T09:45:00
 name: In Class
-description: 'Communication in collaborative environments'
+description: 'Communication in Collaborative Environments'
 hide_from_announcments: true
 ---
 
