@@ -49,12 +49,18 @@ Whether you are skimming or deep-reading, these guiding questions will help you 
 By practicing answering these questions for every paper you read, you will practice quickly honing in on the meaning behind the paper instead of being bogged down by details. 
 
 ### What kind of paper are you reading? 
-* Big idea 
-* Unifying theme 
-* Small idea with evaluation (most papers)
-* Measurement
-* Comparison
-* Retrospective or experience paper
+By understanding the type of the paper, you can ancitipate its structure and evaluation, which will help you determine which parts to focus on during your initial skim.
+* If non-theory paper:
+  * Big idea 
+  * Unifying theme 
+  * Small idea with evaluation (most papers)
+  * Measurement
+  * Comparison
+  * Retrospective or experience paper
+* If theory paper:
+  * New mathematical models + new questions about these models (focus on formal definitions)
+  * Resolving / making progress on known open problems (focus on formal definitions)
+  * New techniques for proofs
 
 ### Motivation and Potential Impact 
 * What is the problem the paper addresses?
