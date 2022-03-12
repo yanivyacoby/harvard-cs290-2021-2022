@@ -58,8 +58,9 @@ By understanding the type of the paper, you can ancitipate its structure and eva
   * Comparison
   * Retrospective or experience paper
 * If theory paper:
-  * New mathematical models + new questions about these models (focus on formal definitions)
-  * Resolving / making progress on known open problems (focus on formal definitions)
+  * Proposes a new model or type of problem for study (focus on formal definitions)
+  * Solves a known open problems (focus on formal definitions)
+  * Clarifies or simplifies our understanding of a known result or phenomenon
   * New techniques for proofs
 
 ### Motivation and Potential Impact 
