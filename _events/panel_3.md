@@ -11,6 +11,6 @@ hide_from_announcments: true
 * Answer [these questions](https://docs.google.com/forms/d/e/1FAIpQLSf8MtLc2koaO7wHFAoIllUdpNU0T1w_iGMnrFiH_T5UFU0FdQ/viewform?usp=sf_link) by 8pm the night before. 
 
 **In class:** 
-* Discussion with PhD student-panel
+* Discussion with PhD student-panel: [Daniel Alabi](https://alabidan.me/), [Radhika Ghosal](https://www.kharghoshal.xyz/), [Dor Verbin](https://scholar.harvard.edu/dorverbin/home), and [Eura Shin](https://eurashin.github.io/)
 * Special note: no faculty present
 
