@@ -11,6 +11,6 @@ hide_from_announcments: true
 * Answer [these questions](https://docs.google.com/forms/d/e/1FAIpQLSc2ewWkLmbJ8F7jP45JsjoWZDtLJyG_Pr7pDgVC4oSBQFR1mw/viewform?usp=sf_link) by 8pm the night before. 
 
 **In class:** 
-* Discussion with PhD student-panel
+* Discussion with PhD student-panel: [Lillian Pentecost](https://lpentecost.github.io/cv/), [Beau Coker](https://beaucoker.github.io/), Samuel Hsia
 * Special note: no faculty present
 
