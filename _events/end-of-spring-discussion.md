@@ -6,7 +6,7 @@ description: 'Class discussion: reflections on the past year'
 hide_from_announcments: true
 ---
 
-**Before class:** TBD
+**Before class:** Reflect on your G1 experience so far. 
 
 **In class:** Discussion about,
 * What did you learn in your first year of the PhD that you didn’t expect to learn?
