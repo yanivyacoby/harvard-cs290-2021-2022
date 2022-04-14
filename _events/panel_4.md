@@ -2,7 +2,7 @@
 type: raw_event
 date: 2022-04-14T09:45:00
 name: In Class
-description: 'TBD'
+description: 'General Questions and Advice'
 hide_from_announcments: true
 ---
 
