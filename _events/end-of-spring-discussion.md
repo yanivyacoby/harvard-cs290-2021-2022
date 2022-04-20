@@ -12,3 +12,5 @@ hide_from_announcments: true
 * What did you learn in your first year of the PhD that you didn’t expect to learn?
 * What was the most rewarding / challenging experience of the first year?
 * What do you expect of yourself, and what are your goals and hopes for your G2 year?
+
+**After class:** Sign up for 1-on-1 chats with Yaniv.
