@@ -50,13 +50,14 @@ While a career in academia may be fulfilling
 when pursuing your PhD, you will be surrounded by academics, and you may feel pressure to pursue a similar career path. 
 There are of course many career options that are fulfilling, whether in academia, 
 industry, government, or NGOs, and many different ways to use the skills you develop in your PhD 
-(even in jobs that do not list “PhD” as a qualification). 
+(even in jobs that do not list "PhD" as a qualification). 
 We list some articles here that share perspectives you may hear less frequently 
 from your mentors in hope to help you understand different professional paths: 
 
 * [Why is it so hard for scientists to talk about leaving academia?](https://massivesci.com/articles/science-academia-phd-scicomm-advisers/)
 * [Most Ph.Ds aren't professors](https://medium.com/bits-and-behavior/most-ph-d-s-arent-professors-13a741ef6868)
 * [Why it is not a 'failure' to leave academia](https://www.nature.com/articles/d41586-018-05838-y)
+* [The Jobs I Didn't See: My Misconceptions of the Academic Job Market](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422)
 * To get a sense for what life might look like initially for an assistant professor at an R1 institution, see [Advising Junior Colleagues](http://mis-misinformation.blogspot.com/2013/06/advising-junior-colleagues.html)
 
 
