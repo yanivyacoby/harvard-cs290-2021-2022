@@ -37,6 +37,7 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
   * [Mistakes Reviewers Make](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
   * [Last minute reviewing advice](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/)
 * [Professor Margo Seltzer's Tips on Writing a Thesis](http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html)
+* [Larry McEnerney: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 * About Graduate fellowship opportunities in Computer Science:
   * Lists of fellowships compiled by [John Girash](https://wiki.harvard.edu/confluence/pages/viewpage.action?spaceKey=SEASDOCSOAP&title=List+of+external+fellowships), by [CMU](https://www.cs.cmu.edu/~gradfellowships/), and by [NC State](https://www.csc.ncsu.edu/dgp/fellowships.html)
   * Fellowship advice compiled by [Harvard](https://gsas.harvard.edu/financial-support/fellowships) and by [MIT](https://oge.mit.edu/finances/fellowships/fellowship-tips/). 
