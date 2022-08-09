@@ -13,7 +13,7 @@ As such, it is important to
 In this guide, we outline a general strategy for paper reading. 
 We hope that you will find it useful, and encourage you to ask your peers, colleagues and mentors for more insights about how they read papers, specifically in your field.
 
-**Acknowledgements:** This guide is adapted from [Margo Seltzer’s course on OS Research](https://www.seltzer.com/margo/teaching/CS508.21/intro.html) and from  [Weiwei Pan’s course on Stochastic Methods](https://docs.google.com/document/d/1MPEOSairUkktoZmX1N8zcIaENjyirt-JgRfSD-HBymk/edit).
+**Acknowledgements:** This guide is adapted from [Margo Seltzer’s course on OS Research](https://www.seltzer.com/margo/teaching/CS508.21/intro.html){:target="_blank"}{:rel="noopener noreferrer"} and from  [Weiwei Pan’s course on Stochastic Methods](https://docs.google.com/document/d/1MPEOSairUkktoZmX1N8zcIaENjyirt-JgRfSD-HBymk/edit){:target="_blank"}{:rel="noopener noreferrer"}.
 
 
 ## Paper-Reading Strategies
