@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Class Philosophy & Additional Readings
+title: Course Materials & Additional Readings
 permalink: /materials/
 ---
 
