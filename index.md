@@ -19,7 +19,7 @@ We will also "visit" and discuss one or two CS colloquia.
 This is a full-year, 4-unit course, meeting once a week in each of the fall and the spring. 
 Students must complete both terms of this course (parts A and B) within the same academic year to receive credit.
 
-Please come prepared having done the readings / assignment listed on the [schedule]({{ site.baseurl }}/schedule/) prior to class.
+Please come prepared having done the readings/assignments listed on the [schedule]({{ site.baseurl }}/schedule/) prior to class.
 
 ## Course Policy
 
