@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Class Materials & Additional Readings
+title: Class Philosophy & Additional Readings
 permalink: /materials/
 ---
 
@@ -29,8 +29,8 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
   1. What should you expect from yourself in your first year?
   2. What does your advisor expect from you in your first year?
   3. How can you be supportive of your peers?
-* [How to read a research paper](/harvard-cs290/materials/how-to-read-a-research-paper)
-* [How to communicate about weekly progress with your collaborators](/harvard-cs290/materials/communication-in-collaborative-environments)
+* [How to read a research paper]({{ site.baseurl }}/materials/how-to-read-a-research-paper)
+* [How to communicate about weekly progress with your collaborators]({{ site.baseurl }}/materials/communication-in-collaborative-environments)
 * [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html)
 * How to (and how not to) review a paper:
   * [The Ins and Outs of Reviewing -- what's good, what's bad, what's ugly?](https://dtai.cs.kuleuven.be/events/ReviewingTutorial/ECMLPKDD_2019_Tutorial_on_Reviewing_FULL.pdf)
