@@ -8,7 +8,7 @@ permalink: /materials/how-to-read-a-research-paper/
 Reading research papers is challenging; research papers are often **dense**, assuming significant **prior knowledge** about the field and about related work. 
 As such, it is important to
 1. expect that it will be a **learning process** -- that it might take a while at first, but with practice you will improve! and
-2. to adopt and practice **paper-reading strategies**.
+2. to adopt and deliberately practice **paper-reading strategies**.
 
 In this guide, we outline a general strategy for paper reading. 
 We hope that you will find it useful, and encourage you to ask your peers, colleagues and mentors for more insights about how they read papers, specifically in your field.
